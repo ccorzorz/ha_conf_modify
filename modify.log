@@ -1,0 +1,10 @@
+2016-05-23 21:32:33 delete the domain www.oldboy.org and the related info.
+2016-05-23 21:36:45 delete the domain www.oldboy.org and the related info.
+2016-05-23 21:38:29 domain test.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 21:41:38 domain test.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 21:43:50 domain test.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 21:45:59 www.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 21:47:48 domain test.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 22:06:05 domain test.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 22:08:34 domain test.oldboy.org add server info: server 100.1.7.9 100.1.7.9 weight 20 maxconn 30
+2016-05-23 22:19:40 delete the domain test.oldboy.org and the related info.
